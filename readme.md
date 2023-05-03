@@ -1,17 +1,3 @@
----
-documentclass: extarticle
-fontsize: 12pt
-dark: true
-title: Documentation - Sourcery
-author: Sanjay Sankaran
----
-
-\pagenumbering{gobble}
-\maketitle
-\newpage
-\setcounter{page}{1}
-\pagenumbering{arabic}
-
 # Sourcery
 
 Sourcery is an Assembly inspired Interpreted language, where program memory is the course code itself. for example,
