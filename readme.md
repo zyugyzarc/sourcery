@@ -53,7 +53,6 @@ The `{TEXT sometext}` will replace the region with the `sometext` in hexadecimal
 
 The `{! something here}` macro can be used as a comment.
 
-\newpage
 # Hello World
 
 A simple and easy equivalent of hello world would be
